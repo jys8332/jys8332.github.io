@@ -1,77 +1,74 @@
 ---
 title: Portfolio
 date: 2023-11-21 03:42:00 +09:00
-categories: [hi1,hi2]
+categories: []
 tags:
   [
-    hi
+    
   ]
-
-school: SungKyunKwan University
 
 ---
 
 
-###### Portfolio
-
-ÀÌ¸§ | Á¤À±¼®
 
 
+#### __Name__
+__Korean__ : ì •ìœ¤ì„<br>
+__English__ : Jeong Yoon Seok
 
-```
-## Introduction
-¼º±Õ°ü´ëÇÐ±³ ¼ÒÇÁÆ®¿þ¾îÇÐ°ú 4ÇÐ³â Á¤À±¼®ÀÔ´Ï´Ù. Æò¼Ò ³×Æ®¿öÅ© º¸¾È ÂÊ¿¡ °ü½ÉÀÌ ÀÖ¾î ÇØ´ç ºÐ¾ß·Î ÁøÃâÇÏ±â À§ÇØ ºÎ´ÜÈ÷ ³ë·Â ÁßÀÔ´Ï´Ù. <br>
-```
 
-```###Skills
-1. Python
-¼¼ºÎ ±â¼ú : Pytorch, Tensorflow, Pandas, yfinance
-- Python ¾ð¾îÀÇ ¹®¹ý¿¡ ´ëÇØ ¼÷ÁöÇÏ°í PythonÀ¸·Î °ñµå ¼öÁØÀÇ PS ¹®Á¦¸¦ Çª´Â Á¤
-µµÀÔ´Ï´Ù.
-- Tensorflow ¸¦ ÀÌ¿ëÇÑ CNN¸ðµ¨(EfficientNet, Vgg16, ResNet) À» È°¿ëÇÏ¿© ÀÌ¹ÌÁö
-¸¦ ºÐ·ùÇÏ´Â ±â¼úÀ» »ç¿ëÇØº» °æÇèÀÌ ÀÖ½À´Ï´Ù.
-- yfinance¸¦ ÀÌ¿ëÇÑ ÁÖ°¡ µ¥ÀÌÅÍ¸¦ ´Ù¿î ¹Þ¾Æ ÀÌ¹ÌÁö·Î º¯È¯ÇÏ´Â °æÇèÀ» ÇØº¸¾Ò½À´Ï
-´Ù.
-- Pytorch¸¦ ÀÌ¿ëÇÑ NLP ¸ðµ¨À» Á¶ÀÛÇØº¸¸ç ÇÐ½À½ÃÄÑº¸¾Ò½À´Ï´Ù.
-- µö·¯´× ¸ðµ¨À» ÇÐ½À½ÃÅ°±â À§ÇØ µ¥ÀÌÅÍµéÀ» Á¶ÀÛÇÒ ¶§ ÁÖ·Î Pandas¶óÀÌºê·¯¸®¸¦ ÀÌ
-¿ëÇÏ¿© Á¶ÀÛÇÏ¿´½À´Ï´Ù.<br>
-2. C
-- ´ëÇÐ±³ ¼ö¾÷ °úÁ¦ÀÇ ´ëºÎºÐÀ» C ¾ð¾î¸¦ ÀÌ¿ëÇÏ¿© ÇØ°áÇÏ¿´½À´Ï´Ù.<br>
-3. JavaScript, CSS, Jquery, flask, HTML
-- ´ëÇÐ±³ ½Ç½À °úÁ¦¸¦ ÇØ°áÇÏ´Â ¼öÁØÀ¸·Î »ç¿ëÇÕ´Ï´Ù.<br>
-4. Java
-¼¼ºÎ ±â¼ú : android studio
-- ´ëÇÐ±³ ½Ç½À °úÁ¦¸¦ ÇØ°áÇÏ´Â ¼öÁØÀ¸·Î »ç¿ëÇÕ´Ï´Ù.<br>
-5. MySQL, MongoDB
-- ÀÍ¼÷Ä¡´Â ¾ÊÁö¸¸ µ¥¸ð ÇÁ·Î±×·¥À» ¸¸µé±â À§ÇØ »ç¿ëÀÚÀÇ Á¤º¸¸¦ ÀúÀåÇÏ°í ºÒ
-·¯¿À´Â µ¥¿¡ »ç¿ëÇÑ °æÇèÀÌ ÀÖ½À´Ï´Ù.<br>
-6. Git, Github
-- ÆÀ¿ø°úÀÇ Çù¾÷À» À§ÇÏ¿© Git Flow¸¦ Â¥°í ConventionÀ» Á¤ÇØ »ç¿ëÇØº» °æÇè
-ÀÌ ÀÖ½À´Ï´Ù.<br>
-```
+####  __Introduction__
+ì„±ê· ê´€ëŒ€í•™êµ ì†Œí”„íŠ¸ì›¨ì–´í•™ê³¼ 4í•™ë…„ ì •ìœ¤ì„ìž…ë‹ˆë‹¤. í‰ì†Œ ë„¤íŠ¸ì›Œí¬ ë³´ì•ˆ ìª½ì— ê´€ì‹¬ì´ ìžˆì–´ í•´ë‹¹ ë¶„ì•¼ë¡œ ì§„ì¶œí•˜ê¸° ìœ„í•´ ë¶€ë‹¨ížˆ ë…¸ë ¥ ì¤‘ìž…ë‹ˆë‹¤. 2024ë…„ ì—¬ë¦„ ì¡¸ì—… ì˜ˆì •ìž…ë‹ˆë‹¤.<br><br>
 
-```
-###Education
-1. ¼º±Õ°ü´ëÇÐ±³
-±â°£ | 2021/2~2023/6(ÆíÀÔ)(ÇöÀç 4ÇÐ³â 2ÇÐ±â)
-Àü°ø | ¼ÒÇÁÆ®¿þ¾îÇÐ°ú
-ÇÐÁ¡/¸¸Á¡ | 3.92/4.5
 
-2. ³×ÀÌ¹ö AI Tech ºÎ½ºÆ®Ä·ÇÁ 5±â
-±â°£ : 2023/3 ~ 2023/08
-```
+#### __Skills__
+__1. Python__<br>
+ì„¸ë¶€ ê¸°ìˆ  : Pytorch, Tensorflow, Pandas, yfinance<br>
+- Python ì–¸ì–´ì˜ ë¬¸ë²•ì— ëŒ€í•´ ìˆ™ì§€í•˜ê³  Pythonìœ¼ë¡œ ê³¨ë“œ ìˆ˜ì¤€ì˜ PS ë¬¸ì œë¥¼ í‘¸ëŠ” ì •ë„ìž…ë‹ˆë‹¤.
+- Tensorflow ë¥¼ ì´ìš©í•œ CNNëª¨ë¸(EfficientNet, Vgg16, ResNet) ì„ í™œìš©í•˜ì—¬ ì´ë¯¸ì§€
+ë¥¼ ë¶„ë¥˜í•˜ëŠ” ê¸°ìˆ ì„ ì‚¬ìš©í•´ë³¸ ê²½í—˜ì´ ìžˆìŠµë‹ˆë‹¤.
+- yfinanceë¥¼ ì´ìš©í•œ ì£¼ê°€ ë°ì´í„°ë¥¼ ë‹¤ìš´ ë°›ì•„ ì´ë¯¸ì§€ë¡œ ë³€í™˜í•˜ëŠ” ê²½í—˜ì„ í•´ë³´ì•˜ìŠµë‹ˆ
+ë‹¤.
+- Pytorchë¥¼ ì´ìš©í•œ NLP ëª¨ë¸ì„ ì¡°ìž‘í•´ë³´ë©° í•™ìŠµì‹œì¼œë³´ì•˜ìŠµë‹ˆë‹¤.
+- ë”¥ëŸ¬ë‹ ëª¨ë¸ì„ í•™ìŠµì‹œí‚¤ê¸° ìœ„í•´ ë°ì´í„°ë“¤ì„ ì¡°ìž‘í•  ë•Œ ì£¼ë¡œ Pandasë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ì´
+ìš©í•˜ì—¬ ì¡°ìž‘í•˜ì˜€ìŠµë‹ˆë‹¤.<br><br>
+__2. C__
+- ëŒ€í•™êµ ìˆ˜ì—… ê³¼ì œì˜ ëŒ€ë¶€ë¶„ì„ C ì–¸ì–´ë¥¼ ì´ìš©í•˜ì—¬ í•´ê²°í•˜ì˜€ìŠµë‹ˆë‹¤.<br><br>
+__3. JavaScript, CSS, Jquery, flask, HTML__
+- ëŒ€í•™êµ ì‹¤ìŠµ ê³¼ì œë¥¼ í•´ê²°í•˜ëŠ” ìˆ˜ì¤€ìœ¼ë¡œ ì‚¬ìš©í•©ë‹ˆë‹¤.<br><br>
+__4. Java__
+ì„¸ë¶€ ê¸°ìˆ  : android studio
+- ëŒ€í•™êµ ì‹¤ìŠµ ê³¼ì œë¥¼ í•´ê²°í•˜ëŠ” ìˆ˜ì¤€ìœ¼ë¡œ ì‚¬ìš©í•©ë‹ˆë‹¤.<br><br>
+__5. MySQL, MongoDB__
+- ìµìˆ™ì¹˜ëŠ” ì•Šì§€ë§Œ ë°ëª¨ í”„ë¡œê·¸ëž¨ì„ ë§Œë“¤ê¸° ìœ„í•´ ì‚¬ìš©ìžì˜ ì •ë³´ë¥¼ ì €ìž¥í•˜ê³  ë¶ˆ
+ëŸ¬ì˜¤ëŠ” ë°ì— ì‚¬ìš©í•œ ê²½í—˜ì´ ìžˆìŠµë‹ˆë‹¤.<br><br>
+__6. Git, Github__
+- íŒ€ì›ê³¼ì˜ í˜‘ì—…ì„ ìœ„í•˜ì—¬ Git Flowë¥¼ ì§œê³  Conventionì„ ì •í•´ ì‚¬ìš©í•´ë³¸ ê²½í—˜
+ì´ ìžˆìŠµë‹ˆë‹¤.<br><br>
 
-```
-###Achivements and Certifications
+
+
+#### __Education__
+__1. ì„±ê· ê´€ëŒ€í•™êµ__<br>
+ê¸°ê°„ | 2021/2~2023/11(íŽ¸ìž…)(í˜„ìž¬ 4í•™ë…„ 2í•™ê¸°)<br>
+ì „ê³µ | ì†Œí”„íŠ¸ì›¨ì–´í•™ê³¼<br>
+í•™ì /ë§Œì  | 3.92/4.5<br>
+<br>
+__2. ë„¤ì´ë²„ AI Tech ë¶€ìŠ¤íŠ¸ìº í”„ 5ê¸°__<br>
+ê¸°ê°„ : 2023/3 ~ 2023/08<br>
+
+
+
+#### __Achivements and Certifications__
 Nothing
-```
 
 
 
 
-``
-###Contact
-`Email | jys8332@gmail.com
-Phone Number | 010-xxxx-xxxx
-github Id | jys8332
-```
+
+
+#### __Contact__
+Email | jys8332@gmail.com<br>
+Phone Number | 010-xxxx-xxxx<br>
+github Id | jys8332<br>
+
